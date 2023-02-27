@@ -1,2 +1,2 @@
-# Prak_KI_per2
-Pada Praktikum ini telah dilakukan eksplorasi mengenai NMap dan juga analisa trafik pada protokol HTTP dan HTTPS. NMap merupakan tools yang sering digunakan dalam pemindaian jaringan. Sementara itu, untuk menganalisa perbedaan protokol HTTP dan HTTPS
+# Prak_KeamananInformasi_EksplorasiNmap_AnalisiHTTPdanHTTPS
+Pada Praktikum ini telah dilakukan eksplorasi mengenai NMap dan juga analisa trafik pada protokol HTTP dan HTTPS. NMap merupakan tools yang sering digunakan dalam pemindaian jaringan. Sementara itu, tools yang digunakan untuk analisa HTTP dan HTTPS adalah wireshark. Dalam Repo ini juga sudah disertakan file yang digunakan untuk analisa. Hasil dari analisa didapakan bahwa situs web yang menggunakan protokol HTTPS memiliki keamanan yang lebih baik daripada yang menggunakan protokol HTTP. Hal tersebut dapat dilihat dari data yang diperoleh sudah dienskripsi sehingga mempersulit untuk mendapatkan informasi yang diinginkan.
